@@ -58,10 +58,7 @@ Multiple classification algorithms were trained and evaluated:
 * Logistic Regression
 * Decision Tree
 * Random Forest
-* XGBoost (if implemented)
-* KNN
-* SVM
-
+  
 ---
 
 ## **📈 Evaluation Metrics**
@@ -90,11 +87,11 @@ The best model was selected based on balanced performance across these metrics.
 ## **🛠️ Tech Stack**
 
 * **Python 3.x**
-* **Pandas, NumPy**
-* **Matplotlib, Seaborn**
+* **NumPy**
+* **Pandas**
+* **Matplotlib**
+* **Seaborn**
 * **Scikit-learn**
-* **XGBoost** (optional)
-
 
 ## **📌 Conclusion**
 
