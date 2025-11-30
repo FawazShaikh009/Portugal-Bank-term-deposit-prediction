@@ -22,7 +22,7 @@ This project covers the full data science pipeline:
 
 ## **📂 Dataset**
 
-* **Source:** UCI Machine Learning Repository – Bank Marketing Dataset
+* **Source: Portugal Bank Marketing Dataset
 * **Target Variable:** `y` (subscription: yes/no)
 * Contains customer demographic info, marketing interaction details, and economic indicators.
 
